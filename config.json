@@ -1,0 +1,68 @@
+{
+    "settings": {
+        "photos_dir": "photos",
+        "infografika_dir": "infografika",
+        "output_dir": "output",
+        "excel_file": "data.xlsx",
+        "canvas_width": 900,
+        "canvas_height": 1200,
+        "margin": 30
+    },
+    "positions": {
+        "9": {
+            "x": "850",
+            "y": "1020",
+            "anchor": "bottom-right"
+        },
+        "1": {
+            "x": "450",
+            "y": "115",
+            "anchor": "center"
+        },
+        "7": {
+            "x": "50",
+            "y": "1020",
+            "anchor": "bottom-left"
+        },
+        "2": {
+            "x": "860",
+            "y": "1030",
+            "anchor": "bottom-right"
+        },
+        "3": {
+            "x": "850",
+            "y": "1030",
+            "anchor": "bottom-right"
+        },
+        "4": {
+            "x": "35",
+            "y": "160",
+            "anchor": "bottom-left"
+        },
+        "5": {
+            "x": "287",
+            "y": "118",
+            "anchor": "bottom-right"
+        },
+        "6": {
+            "x": "837",
+            "y": "560",
+            "anchor": "bottom-right"
+        },
+        "8": {
+            "x": "850",
+            "y": "1020",
+            "anchor": "bottom-right"
+        },
+        "10": {
+            "x": "878",
+            "y": "425",
+            "anchor": "bottom-right"
+        },
+        "11": {
+            "x": "305",
+            "y": "425",
+            "anchor": "bottom-right"
+        }
+    }
+}
